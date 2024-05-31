@@ -27,5 +27,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/react-formula-calculator.git
+   git clone https://github.com/sandesh682/formulaCalculator.git
+   ```
+
+2. Install required dependencies
+
+   ```sh
+   npm install
+   ```
+
+3. Run application
+
+   ```sh
+   npm start
    ```
